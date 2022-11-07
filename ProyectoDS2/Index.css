@@ -1,0 +1,31 @@
+h2{
+    color:red;
+}
+.titulo{
+    color:blue;
+}
+#texto{
+    text-align: center;
+}
+[ejemplo="dos"]{
+    color:orange;
+    text-align: center;
+    text-shadow: 3px 2px 5px green;
+}
+.listado{
+    font-size: large;
+    text-align: center;
+
+
+}
+body {
+    background-color: gray;
+    border: 2px solid thistle;
+}
+.listado .imagen{
+    display: block;
+    margin: 0 auto;
+    height: 256px;
+    width: 256px;
+    border: 2px solid black;
+}
